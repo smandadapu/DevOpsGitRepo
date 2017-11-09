@@ -1,0 +1,2 @@
+# DevOpsGitRepo
+CI CD automation
