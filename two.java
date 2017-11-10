@@ -4,6 +4,7 @@ class two
 	{
 		
 		System.out.println("GITHUB JAVA PROJECT2");
+System.out.println("Bitbucket commit");
 	}
 	
 	
